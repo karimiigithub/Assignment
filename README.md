@@ -13,9 +13,8 @@ This assignment will all be about examining and understanding the *_Digital_* si
 ### Screenshots
 It is up to you, how to take screenshot but I suggest using [ShareX](https://getsharex.com/) You can directly create gif for example. Simulator also has export as options.
 
-![image](https://github.com/abbaselmas/Assignment/assets/28142617/fa0c543c-e87b-4c6d-98b4-d084c12b1ad0)
+![javaw_nvWJ5TmyMY](https://github.com/karimiigithub/Assignment/assets/115380639/170c1e04-7917-4da7-bfd5-186901e83359)
 
-![javaw_HHx2dRrzZ5](https://github.com/abbaselmas/Assignment/assets/28142617/ab69400c-e5c0-43b6-a78c-5e34f5fb4027)
 
 ### Equipments List
 
