@@ -17,6 +17,9 @@ It is up to you, how to take screenshot but I suggest using [ShareX](https://get
 
 ![javaw_HHx2dRrzZ5](https://github.com/abbaselmas/Assignment/assets/28142617/ab69400c-e5c0-43b6-a78c-5e34f5fb4027)
 
+![javaw_nvWJ5TmyMY](https://github.com/abbaselmas/Assignment/assets/115380639/a96e239c-c076-49f1-9d5a-23693190c96c)
+
+
 ### Equipments List
 
 | Malzeme                     | Ürün Kodu |
